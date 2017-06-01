@@ -4,6 +4,6 @@ My solution to the Kaggle <a href = "https://www.kaggle.com/c/the-nature-conserv
 Due to college coursework I couldn't make further modifications to improve the score. I had planned to do the following, which would have surely given me a <1 LB loss score.
 <ul>
 <li> Use Ensemble of several models  </li>
-<li> Augmentating the Images </li>
+<li> Augmenting the Images </li>
 </ul>
 
